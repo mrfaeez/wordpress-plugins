@@ -9,3 +9,5 @@
 7. Page Visit Counter - https://downloads.wordpress.org/plugin/advanced-page-visit-counter.4.3.zip
 8. Modern Events Calendar Lite - https://downloads.wordpress.org/plugin/modern-events-calendar-lite.5.17.5.zip
 9. Accessibility - https://wordpress.org/plugins/pojo-accessibility/
+10. Brave Popup - https://downloads.wordpress.org/plugin/brave-popup-builder.0.4.0.zip
+11. DearFlip Ebook - https://downloads.wordpress.org/plugin/3d-flipbook-dflip-lite.zip
